@@ -1,0 +1,125 @@
+[_tb_system_call storage=system/_intro.ks]
+
+[tb_start_tyrano_code]
+[if exp="TYRANO.kag.stat.current_bgm !== 'odayaka.mp3'"]
+[_tb_end_tyrano_code]
+
+[playbgm  volume="10"  time="1000"  loop="true"  storage="odayaka.mp3"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[hidemenubutton]
+
+[bg  time="1000"  method="crossfade"  storage="background.jpg"  ]
+[tb_ptext_show  x="529"  y="318"  size="60"  color="0xffffff"  time="1000"  text="言語を選択/Select&nbsp;language"  anim="false"  face="MochiyPopOne-Regular"  edge="undefined"  shadow="undefined"  ]
+[font  size="14"  color="0xffffff"  face="MochiyPopOne-Regular"  ]
+[glink  color="btn_29_red"  storage="intro.ks"  size="60"  text="日本語"  x="520"  y="570"  width=""  height=""  _clickable_img="background.jpg"  target="*ja"  ]
+[glink  color="btn_29_blue"  storage="intro.ks"  size="60"  text="English"  x="1100"  y="570"  width=""  height=""  _clickable_img=""  target="*en"  ]
+[s  ]
+*ja
+
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+;exeではラベルjaの下に入れる[p]
+F4キーを入力するとフルスクリーンモードの切り替えができます[p]
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[tb_ptext_hide  time="0"  ]
+[cm  ]
+[tb_lang_set  name="default"  ]
+[tb_eval  exp="sf.lang='ja'"  name="lang"  cmd="="  op="t"  val="ja"  val_2="undefined"  ]
+[jump  storage="intro.ks"  target="*intro_s"  ]
+[s  ]
+*en
+
+[tb_show_message_window  ]
+[tb_start_text mode=1 ]
+;exeではラベルjaの下に入れる[p]
+Entering the F4 key to toggle full-screen mode[p]
+
+[_tb_end_text]
+
+[tb_hide_message_window  ]
+[tb_ptext_hide  time="0"  ]
+[cm  ]
+[tb_lang_set  name="en"  ]
+[tb_eval  exp="sf.lang='en'"  name="lang"  cmd="="  op="t"  val="en"  val_2="undefined"  ]
+[jump  storage="intro.ks"  target="*intro_s"  ]
+[s  ]
+*intro_s
+
+[hidemenubutton]
+
+[tb_start_tyrano_code]
+[if exp="TYRANO.kag.stat.current_bgm !== 'odayaka.mp3'"]
+[_tb_end_tyrano_code]
+
+[playbgm  volume="10"  time="1000"  loop="true"  storage="odayaka.mp3"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_image_hide  time="0"  ]
+[bg  time="1000"  method="crossfade"  storage="background.jpg"  ]
+[chara_show  name="aina"  time="1000"  wait="true"  storage="chara/1/1-1.png"  width="1440"  height="1920"  left="293"  top="-55"  reflect="false"  ]
+[wait  time="1000"  ]
+[chara_mod  name="aina"  time="0"  cross="false"  storage="chara/1/1-3.png"  ]
+[tb_show_message_window  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="aina/0-1.mp3"  ]
+[tb_start_text mode=4 ]
+はぁい、皆さん、こんにちは。 私の名前は、アイナーレ・アレキサンドライト…。[r]
+「アイナ」って呼んでね。[l]
+[_tb_end_text]
+
+[cm  ]
+[chara_mod  name="aina"  time="0"  cross="false"  storage="chara/1/2-1.png"  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="aina/0-2.mp3"  ]
+[tb_start_text mode=4 ]
+私はミノタウロスとエルフのハーフで…、 ミノタルフ…？っていう貴重な種族らしいの。
+詳しいことはわからないんだけど…、[l]
+[_tb_end_text]
+
+[cm  ]
+[chara_mod  name="aina"  time="0"  cross="false"  storage="chara/1/2-2.png"  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="aina/0-3.mp3"  ]
+[tb_start_text mode=4 ]
+それで妊娠していなくても母乳が出る体質なのよ。[l]
+[_tb_end_text]
+
+[cm  ]
+[chara_mod  name="aina"  time="0"  cross="false"  storage="chara/1/3-1.png"  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="aina/0-4.mp3"  ]
+[tb_start_text mode=4 ]
+しかも！エルフの魔力が混ざった素敵なミルクだから、 [r]
+体力も魔力も、精力も回復しちゃう特別な飲み物なのよ！[l]
+[_tb_end_text]
+
+[cm  ]
+[chara_mod  name="aina"  time="0"  cross="false"  storage="chara/1/3-2.png"  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="aina/0-5.mp3"  ]
+[tb_start_text mode=4 ]
+そんな私のミルクをみんなに飲んでほしくて牛乳屋さんをやっているわ。[l]
+[_tb_end_text]
+
+[cm  ]
+[chara_mod  name="aina"  time="0"  cross="false"  storage="chara/1/3-1.png"  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="aina/0-6.mp3"  ]
+[tb_start_text mode=4 ]
+今日は、私のお店とお仕事について紹介しますね！ [l]
+[_tb_end_text]
+
+[cm  ]
+[chara_mod  name="aina"  time="0"  cross="false"  storage="chara/1/3-2.png"  ]
+[playse  volume="100"  time="1000"  buf="0"  storage="aina/0-7.mp3"  ]
+[tb_start_text mode=4 ]
+搾乳のやり方などを教えてあげるから見ていってね  [l]
+[_tb_end_text]
+
+[cm  ]
+[chara_hide  name="aina"  time="1000"  wait="true"  pos_mode="true"  ]
+[tb_eval  exp="f.intro=1"  name="intro"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
+[tb_hide_message_window  ]
+[jump  storage="select.ks"  target=""  ]
+[s  ]

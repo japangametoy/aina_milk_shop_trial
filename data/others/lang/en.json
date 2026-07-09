@@ -1,0 +1,98 @@
+{
+  "scenes": {
+    "null": {
+      "scenario": {},
+      "tag": {}
+    },
+    "a_anime_only.ks": {
+      "scenario": {},
+      "tag": {}
+    },
+    "b_anime.ks": {
+      "scenario": {},
+      "tag": {}
+    },
+    "c_anime.ks": {
+      "scenario": {},
+      "tag": {}
+    },
+    "d_anime.ks": {
+      "scenario": {},
+      "tag": {}
+    },
+    "intro.ks": {
+      "scenario": {
+        "はぁい、皆さん、こんにちは。 私の名前は、アイナーレ・アレキサンドライト…。": "Hii, everyone, hello~! My name is Ainalait Alexandrite…",
+        "「アイナ」って呼んでね。": "But please, just call me Aina, okay?",
+        "私はミノタウロスとエルフのハーフで…、 ミノタルフ…？っていう貴重な種族らしいの。": "I’m half Minotaur and half Elf… so, um… that makes me a really rare kind of race called a Minotalf, I think?",
+        "詳しいことはわからないんだけど…、": "I don’t know all the details myself, but… that’s what I’ve been told.",
+        "それで妊娠していなくても母乳が出る体質なのよ。": "And, well… even if I’m not pregnant, my body can produce milk.",
+        "しかも！エルフの魔力が混ざった素敵なミルクだから、 ": "What’s more—because it’s enchanted with Elf magic,",
+        "体力も魔力も、精力も回復しちゃう特別な飲み物なのよ！": "my milk is this really wonderful drink that can restore stamina, mana, and even vitality!",
+        "そんな私のミルクをみんなに飲んでほしくて牛乳屋さんをやっているわ。": "That’s why I started running a little milk shop—because I really want everyone to try it.",
+        "今日は、私のお店とお仕事について紹介しますね！ ": "So today, I’ll be introducing my shop and the kind of work I do there!",
+        "搾乳のやり方などを教えてあげるから見ていってね  ": "I’ll even teach you how milking is done, so please stay and watch, okay?"
+      },
+      "tag": {}
+    },
+    "a_anime.ks": {
+      "scenario": {
+        "まずは最も一般的な手で搾る方法をお見せするわね。 ": "First, I’ll show you the most common way—using my hands.",
+        "しっかり乳首の根元から握って絞り出すの！": "Squeeze firmly from the base of the nipple and press it out!",
+        "ミルクが「びゅーっ」ってふきだすと、 乳首がとぉっても気持ちよくなるのよ。 ": "When the milk squirts out with a “pshh~,”it makes the nipple feel sooo good.",
+        "かいらくしすう…？ってものをはかってもらったことがあるんだけれども、": "I once had something called a “pleasure index”…? measured for me,",
+        "男の人の射精に近い快感らしいわ。  ": "and apparently, the sensation is similar to when a man… releases.",
+        "このお店のミルクはすべて搾りたて！ 鮮度抜群でとってもおいしいって評判なの   ": "All the milk in my shop is freshly squeezed! Everyone says it’s incredibly fresh and sooo delicious.",
+        "売っているミルクはこうやって毎朝手で搾っているのよ   ": "Every morning, I milk myself by hand just like this before selling it.",
+        "体験版はここまでです！": "That’s the end of the trial version!",
+        "続きは製品版でお楽しみください": "Please look forward to enjoying the rest in the full release.",
+        "次に移動するシーンセレクト画面右下の「ムービー」からは、セリフなしのアニメーションが視聴できます。": "From the “Movie” option at the bottom right of the next Scene Select screen, you can also watch animations without dialogue.",
+        "ぜひそちらもお楽しみください！": "I’d be so happy if you enjoyed those too!"
+      },
+      "tag": {}
+    },
+    "scene1.ks": {
+      "scenario": {},
+      "tag": {}
+    },
+    "select.ks": {
+      "scenario": {},
+      "tag": {
+        "glink": {
+          "text": {
+            "ムービー": "Movie"
+          }
+        }
+      }
+    },
+    "title.ks": {
+      "scenario": {},
+      "tag": {}
+    },
+    "title_screen.ks": {
+      "scenario": {},
+      "tag": {}
+    },
+    "select_anime_only.ks": {
+      "scenario": {},
+      "tag": {
+        "glink": {
+          "text": {
+            "シーン選択": "Scene Select"
+          }
+        }
+      }
+    }
+  },
+  "charas": {
+    "ガイド": ""
+  },
+  "tags": {
+    "glink": [
+      "text"
+    ],
+    "tb_ptext_show": [
+      "text"
+    ]
+  }
+}
