@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/background_select.jpg"  ]
+[preload  storage="./data/fgimage/default/b_pic_s_g.jpg"  ]
+[preload  storage="./data/fgimage/default/c_pic_s_g.jpg"  ]
+[preload  storage="./data/fgimage/default/d_pic_s_g.jpg"  ]
+[return]

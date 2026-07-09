@@ -1,0 +1,17 @@
+[_tb_system_call storage=system/_a_anime_only.ks]
+
+[hidemenubutton]
+
+[playbgm  volume="10"  time="1000"  loop="true"  storage="odayaka.mp3"  ]
+[tb_image_hide  time="0"  ]
+[bgmovie  time="1000"  volume="100"  loop="true"  storage="a_1.mp4"  ]
+[l  ]
+[stop_bgmovie  time="100"  ]
+[bgmovie  time="1000"  volume="100"  loop="true"  storage="a_2_l.mp4"  ]
+[l  ]
+[stop_bgmovie  time="100"  ]
+[bgmovie  time="1000"  volume="100"  loop="true"  storage="a_3.mp4"  ]
+[l  ]
+[stop_bgmovie  time="1000"  ]
+[jump  storage="select_anime_only.ks"  target=""  ]
+[s  ]

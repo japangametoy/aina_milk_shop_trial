@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/background.jpg"  ]
+[preload  storage="./data/fgimage/chara/1/1-3.png"  ]
+[preload  storage="./data/fgimage/chara/1/2-1.png"  ]
+[preload  storage="./data/fgimage/chara/1/2-2.png"  ]
+[preload  storage="./data/fgimage/chara/1/3-1.png"  ]
+[preload  storage="./data/fgimage/chara/1/3-2.png"  ]
+[return]

@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/background.jpg"  ]
+[preload  storage="./data/fgimage/default/sbtit_1.png"  ]
+[preload  storage="./data/fgimage/default/1_Self-Milking.png"  ]
+[preload  storage="./data/fgimage/chara/1/1-3.png"  ]
+[return]
