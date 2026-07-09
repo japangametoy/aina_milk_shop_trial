@@ -1,0 +1,3122 @@
+[
+    {
+        "file_name": "main.js",
+        "relative_path": "main.js",
+        "size_bytes": 5080
+    },
+    {
+        "file_name": "index.html",
+        "relative_path": "index.html",
+        "size_bytes": 5858
+    },
+    {
+        "file_name": "files.json",
+        "relative_path": "files.json",
+        "size_bytes": 0
+    },
+    {
+        "file_name": "tyrano.icns",
+        "relative_path": "tyrano.icns",
+        "size_bytes": 1362669
+    },
+    {
+        "file_name": "tyrano.ico",
+        "relative_path": "tyrano.ico",
+        "size_bytes": 67646
+    },
+    {
+        "file_name": "preload.js",
+        "relative_path": "preload.js",
+        "size_bytes": 535
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "package.json",
+        "size_bytes": 499
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/commander/index.js",
+        "size_bytes": 50974
+    },
+    {
+        "file_name": "Readme.md",
+        "relative_path": "node_modules/commander/Readme.md",
+        "size_bytes": 25199
+    },
+    {
+        "file_name": "CHANGELOG.md",
+        "relative_path": "node_modules/commander/CHANGELOG.md",
+        "size_bytes": 16146
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/commander/LICENSE",
+        "size_bytes": 1098
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/commander/package.json",
+        "size_bytes": 1132
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/commander/typings/index.d.ts",
+        "size_bytes": 12290
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/chromium-pickle-js/README.md",
+        "size_bytes": 4016
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/chromium-pickle-js/package.json",
+        "size_bytes": 495
+    },
+    {
+        "file_name": "exports.js",
+        "relative_path": "node_modules/chromium-pickle-js/lib/exports.js",
+        "size_bytes": 188
+    },
+    {
+        "file_name": "pickle.js",
+        "relative_path": "node_modules/chromium-pickle-js/lib/pickle.js",
+        "size_bytes": 6996
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/inflight/package.json",
+        "size_bytes": 658
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/inflight/LICENSE",
+        "size_bytes": 748
+    },
+    {
+        "file_name": "inflight.js",
+        "relative_path": "node_modules/inflight/inflight.js",
+        "size_bytes": 1365
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/inflight/README.md",
+        "size_bytes": 991
+    },
+    {
+        "file_name": "once.js",
+        "relative_path": "node_modules/once/once.js",
+        "size_bytes": 935
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/once/README.md",
+        "size_bytes": 1772
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/once/package.json",
+        "size_bytes": 574
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/once/LICENSE",
+        "size_bytes": 765
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/csv-stringify/README.md",
+        "size_bytes": 3019
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/csv-stringify/LICENSE",
+        "size_bytes": 1074
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/csv-stringify/package.json",
+        "size_bytes": 3372
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/csv-stringify/dist/esm/index.d.ts",
+        "size_bytes": 3967
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/csv-stringify/dist/esm/index.js",
+        "size_bytes": 168866
+    },
+    {
+        "file_name": "sync.js",
+        "relative_path": "node_modules/csv-stringify/dist/esm/sync.js",
+        "size_bytes": 75243
+    },
+    {
+        "file_name": "sync.d.ts",
+        "relative_path": "node_modules/csv-stringify/dist/esm/sync.d.ts",
+        "size_bytes": 282
+    },
+    {
+        "file_name": "index.cjs",
+        "relative_path": "node_modules/csv-stringify/dist/cjs/index.cjs",
+        "size_bytes": 23364
+    },
+    {
+        "file_name": "index.d.cts",
+        "relative_path": "node_modules/csv-stringify/dist/cjs/index.d.cts",
+        "size_bytes": 3967
+    },
+    {
+        "file_name": "sync.cjs",
+        "relative_path": "node_modules/csv-stringify/dist/cjs/sync.cjs",
+        "size_bytes": 21080
+    },
+    {
+        "file_name": "sync.d.cts",
+        "relative_path": "node_modules/csv-stringify/dist/cjs/sync.d.cts",
+        "size_bytes": 284
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/csv-stringify/dist/umd/index.js",
+        "size_bytes": 179340
+    },
+    {
+        "file_name": "sync.js",
+        "relative_path": "node_modules/csv-stringify/dist/umd/sync.js",
+        "size_bytes": 102885
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/csv-stringify/dist/iife/index.js",
+        "size_bytes": 179069
+    },
+    {
+        "file_name": "sync.js",
+        "relative_path": "node_modules/csv-stringify/dist/iife/sync.js",
+        "size_bytes": 102604
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/csv-stringify/lib/index.js",
+        "size_bytes": 3295
+    },
+    {
+        "file_name": "sync.d.ts",
+        "relative_path": "node_modules/csv-stringify/lib/sync.d.ts",
+        "size_bytes": 282
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/csv-stringify/lib/index.d.ts",
+        "size_bytes": 3967
+    },
+    {
+        "file_name": "sync.js",
+        "relative_path": "node_modules/csv-stringify/lib/sync.js",
+        "size_bytes": 810
+    },
+    {
+        "file_name": "get.js",
+        "relative_path": "node_modules/csv-stringify/lib/utils/get.js",
+        "size_bytes": 2453
+    },
+    {
+        "file_name": "underscore.js",
+        "relative_path": "node_modules/csv-stringify/lib/utils/underscore.js",
+        "size_bytes": 160
+    },
+    {
+        "file_name": "is_object.js",
+        "relative_path": "node_modules/csv-stringify/lib/utils/is_object.js",
+        "size_bytes": 133
+    },
+    {
+        "file_name": "CsvError.js",
+        "relative_path": "node_modules/csv-stringify/lib/api/CsvError.js",
+        "size_bytes": 548
+    },
+    {
+        "file_name": "normalize_options.js",
+        "relative_path": "node_modules/csv-stringify/lib/api/normalize_options.js",
+        "size_bytes": 6877
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/csv-stringify/lib/api/index.js",
+        "size_bytes": 9761
+    },
+    {
+        "file_name": "normalize_columns.js",
+        "relative_path": "node_modules/csv-stringify/lib/api/normalize_columns.js",
+        "size_bytes": 1173
+    },
+    {
+        "file_name": "wrappy.js",
+        "relative_path": "node_modules/wrappy/wrappy.js",
+        "size_bytes": 905
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/wrappy/LICENSE",
+        "size_bytes": 765
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/wrappy/README.md",
+        "size_bytes": 685
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/wrappy/package.json",
+        "size_bytes": 606
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/jsonfile/README.md",
+        "size_bytes": 6368
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/jsonfile/index.js",
+        "size_bytes": 1900
+    },
+    {
+        "file_name": "CHANGELOG.md",
+        "relative_path": "node_modules/jsonfile/CHANGELOG.md",
+        "size_bytes": 9112
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/jsonfile/LICENSE",
+        "size_bytes": 1110
+    },
+    {
+        "file_name": "utils.js",
+        "relative_path": "node_modules/jsonfile/utils.js",
+        "size_bytes": 498
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/jsonfile/package.json",
+        "size_bytes": 762
+    },
+    {
+        "file_name": "README.markdown",
+        "relative_path": "node_modules/concat-map/README.markdown",
+        "size_bytes": 1165
+    },
+    {
+        "file_name": ".travis.yml",
+        "relative_path": "node_modules/concat-map/.travis.yml",
+        "size_bytes": 43
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/concat-map/index.js",
+        "size_bytes": 345
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/concat-map/package.json",
+        "size_bytes": 989
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/concat-map/LICENSE",
+        "size_bytes": 1073
+    },
+    {
+        "file_name": "map.js",
+        "relative_path": "node_modules/concat-map/test/map.js",
+        "size_bytes": 1075
+    },
+    {
+        "file_name": "map.js",
+        "relative_path": "node_modules/concat-map/example/map.js",
+        "size_bytes": 171
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/inherits/README.md",
+        "size_bytes": 1625
+    },
+    {
+        "file_name": "inherits.js",
+        "relative_path": "node_modules/inherits/inherits.js",
+        "size_bytes": 250
+    },
+    {
+        "file_name": "inherits_browser.js",
+        "relative_path": "node_modules/inherits/inherits_browser.js",
+        "size_bytes": 753
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/inherits/LICENSE",
+        "size_bytes": 749
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/inherits/package.json",
+        "size_bytes": 581
+    },
+    {
+        "file_name": ".travis.yml",
+        "relative_path": "node_modules/zip-dir/.travis.yml",
+        "size_bytes": 36
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/zip-dir/package.json",
+        "size_bytes": 592
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/zip-dir/index.js",
+        "size_bytes": 2865
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/zip-dir/README.md",
+        "size_bytes": 2470
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/zip-dir/LICENSE",
+        "size_bytes": 1077
+    },
+    {
+        "file_name": "zip-dir.test.js",
+        "relative_path": "node_modules/zip-dir/test/zip-dir.test.js",
+        "size_bytes": 6519
+    },
+    {
+        "file_name": "file1.json",
+        "relative_path": "node_modules/zip-dir/test/fixtures/sampleZip/file1.json",
+        "size_bytes": 27
+    },
+    {
+        "file_name": "tiny.gif",
+        "relative_path": "node_modules/zip-dir/test/fixtures/sampleZip/tiny.gif",
+        "size_bytes": 43
+    },
+    {
+        "file_name": "file2.json",
+        "relative_path": "node_modules/zip-dir/test/fixtures/sampleZip/dir/file2.json",
+        "size_bytes": 31
+    },
+    {
+        "file_name": "file3.json",
+        "relative_path": "node_modules/zip-dir/test/fixtures/sampleZip/dir/file3.json",
+        "size_bytes": 31
+    },
+    {
+        "file_name": "file4.json",
+        "relative_path": "node_modules/zip-dir/test/fixtures/sampleZip/dir/deepDir/deeperDir/file4.json",
+        "size_bytes": 49
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/fs-extra/LICENSE",
+        "size_bytes": 1084
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/fs-extra/package.json",
+        "size_bytes": 1565
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/fs-extra/README.md",
+        "size_bytes": 10608
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs-extra/lib/index.js",
+        "size_bytes": 358
+    },
+    {
+        "file_name": "esm.mjs",
+        "relative_path": "node_modules/fs-extra/lib/esm.mjs",
+        "size_bytes": 2643
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs-extra/lib/fs/index.js",
+        "size_bytes": 3699
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs-extra/lib/empty/index.js",
+        "size_bytes": 747
+    },
+    {
+        "file_name": "output-json-sync.js",
+        "relative_path": "node_modules/fs-extra/lib/json/output-json-sync.js",
+        "size_bytes": 276
+    },
+    {
+        "file_name": "output-json.js",
+        "relative_path": "node_modules/fs-extra/lib/json/output-json.js",
+        "size_bytes": 277
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs-extra/lib/json/index.js",
+        "size_bytes": 508
+    },
+    {
+        "file_name": "jsonfile.js",
+        "relative_path": "node_modules/fs-extra/lib/json/jsonfile.js",
+        "size_bytes": 238
+    },
+    {
+        "file_name": "copy.js",
+        "relative_path": "node_modules/fs-extra/lib/copy/copy.js",
+        "size_bytes": 5649
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs-extra/lib/copy/index.js",
+        "size_bytes": 146
+    },
+    {
+        "file_name": "copy-sync.js",
+        "relative_path": "node_modules/fs-extra/lib/copy/copy-sync.js",
+        "size_bytes": 5533
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs-extra/lib/output-file/index.js",
+        "size_bytes": 657
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs-extra/lib/remove/index.js",
+        "size_bytes": 331
+    },
+    {
+        "file_name": "utils.js",
+        "relative_path": "node_modules/fs-extra/lib/mkdirs/utils.js",
+        "size_bytes": 1655
+    },
+    {
+        "file_name": "make-dir.js",
+        "relative_path": "node_modules/fs-extra/lib/mkdirs/make-dir.js",
+        "size_bytes": 545
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs-extra/lib/mkdirs/index.js",
+        "size_bytes": 328
+    },
+    {
+        "file_name": "utimes.js",
+        "relative_path": "node_modules/fs-extra/lib/util/utimes.js",
+        "size_bytes": 687
+    },
+    {
+        "file_name": "stat.js",
+        "relative_path": "node_modules/fs-extra/lib/util/stat.js",
+        "size_bytes": 5134
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs-extra/lib/path-exists/index.js",
+        "size_bytes": 263
+    },
+    {
+        "file_name": "move.js",
+        "relative_path": "node_modules/fs-extra/lib/move/move.js",
+        "size_bytes": 1523
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs-extra/lib/move/index.js",
+        "size_bytes": 146
+    },
+    {
+        "file_name": "move-sync.js",
+        "relative_path": "node_modules/fs-extra/lib/move/move-sync.js",
+        "size_bytes": 1515
+    },
+    {
+        "file_name": "link.js",
+        "relative_path": "node_modules/fs-extra/lib/ensure/link.js",
+        "size_bytes": 1366
+    },
+    {
+        "file_name": "symlink-paths.js",
+        "relative_path": "node_modules/fs-extra/lib/ensure/symlink-paths.js",
+        "size_bytes": 3103
+    },
+    {
+        "file_name": "file.js",
+        "relative_path": "node_modules/fs-extra/lib/ensure/file.js",
+        "size_bytes": 1459
+    },
+    {
+        "file_name": "symlink-type.js",
+        "relative_path": "node_modules/fs-extra/lib/ensure/symlink-type.js",
+        "size_bytes": 596
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs-extra/lib/ensure/index.js",
+        "size_bytes": 542
+    },
+    {
+        "file_name": "symlink.js",
+        "relative_path": "node_modules/fs-extra/lib/ensure/symlink.js",
+        "size_bytes": 1724
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/fs.realpath/LICENSE",
+        "size_bytes": 2125
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/fs.realpath/README.md",
+        "size_bytes": 881
+    },
+    {
+        "file_name": "old.js",
+        "relative_path": "node_modules/fs.realpath/old.js",
+        "size_bytes": 8542
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/fs.realpath/index.js",
+        "size_bytes": 1308
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/fs.realpath/package.json",
+        "size_bytes": 577
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/asar/package.json",
+        "size_bytes": 1463
+    },
+    {
+        "file_name": "LICENSE.md",
+        "relative_path": "node_modules/asar/LICENSE.md",
+        "size_bytes": 1055
+    },
+    {
+        "file_name": "CHANGELOG.md",
+        "relative_path": "node_modules/asar/CHANGELOG.md",
+        "size_bytes": 3213
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/asar/README.md",
+        "size_bytes": 5557
+    },
+    {
+        "file_name": "asar.js",
+        "relative_path": "node_modules/asar/bin/asar.js",
+        "size_bytes": 2763
+    },
+    {
+        "file_name": "asar.js",
+        "relative_path": "node_modules/asar/lib/asar.js",
+        "size_bytes": 7186
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/asar/lib/index.d.ts",
+        "size_bytes": 2157
+    },
+    {
+        "file_name": "integrity.js",
+        "relative_path": "node_modules/asar/lib/integrity.js",
+        "size_bytes": 1608
+    },
+    {
+        "file_name": "disk.js",
+        "relative_path": "node_modules/asar/lib/disk.js",
+        "size_bytes": 3997
+    },
+    {
+        "file_name": "crawlfs.js",
+        "relative_path": "node_modules/asar/lib/crawlfs.js",
+        "size_bytes": 1329
+    },
+    {
+        "file_name": "filesystem.js",
+        "relative_path": "node_modules/asar/lib/filesystem.js",
+        "size_bytes": 3976
+    },
+    {
+        "file_name": "wrapped-fs.js",
+        "relative_path": "node_modules/asar/lib/wrapped-fs.js",
+        "size_bytes": 606
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/balanced-match/README.md",
+        "size_bytes": 3502
+    },
+    {
+        "file_name": "LICENSE.md",
+        "relative_path": "node_modules/balanced-match/LICENSE.md",
+        "size_bytes": 1096
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/balanced-match/package.json",
+        "size_bytes": 1069
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/balanced-match/index.js",
+        "size_bytes": 1219
+    },
+    {
+        "file_name": "FUNDING.yml",
+        "relative_path": "node_modules/balanced-match/.github/FUNDING.yml",
+        "size_bytes": 53
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/csv-parse/README.md",
+        "size_bytes": 3294
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/csv-parse/LICENSE",
+        "size_bytes": 1074
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/csv-parse/package.json",
+        "size_bytes": 4361
+    },
+    {
+        "file_name": "sync.d.ts",
+        "relative_path": "node_modules/csv-parse/lib/sync.d.ts",
+        "size_bytes": 296
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/csv-parse/lib/index.d.ts",
+        "size_bytes": 10150
+    },
+    {
+        "file_name": "stream.js",
+        "relative_path": "node_modules/csv-parse/lib/stream.js",
+        "size_bytes": 568
+    },
+    {
+        "file_name": "sync.js",
+        "relative_path": "node_modules/csv-parse/lib/sync.js",
+        "size_bytes": 703
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/csv-parse/lib/index.js",
+        "size_bytes": 3486
+    },
+    {
+        "file_name": "underscore.js",
+        "relative_path": "node_modules/csv-parse/lib/utils/underscore.js",
+        "size_bytes": 157
+    },
+    {
+        "file_name": "ResizeableBuffer.js",
+        "relative_path": "node_modules/csv-parse/lib/utils/ResizeableBuffer.js",
+        "size_bytes": 1492
+    },
+    {
+        "file_name": "is_object.js",
+        "relative_path": "node_modules/csv-parse/lib/utils/is_object.js",
+        "size_bytes": 133
+    },
+    {
+        "file_name": "normalize_options.js",
+        "relative_path": "node_modules/csv-parse/lib/api/normalize_options.js",
+        "size_bytes": 19655
+    },
+    {
+        "file_name": "init_state.js",
+        "relative_path": "node_modules/csv-parse/lib/api/init_state.js",
+        "size_bytes": 2462
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/csv-parse/lib/api/index.js",
+        "size_bytes": 28653
+    },
+    {
+        "file_name": "normalize_columns_array.js",
+        "relative_path": "node_modules/csv-parse/lib/api/normalize_columns_array.js",
+        "size_bytes": 1104
+    },
+    {
+        "file_name": "CsvError.js",
+        "relative_path": "node_modules/csv-parse/lib/api/CsvError.js",
+        "size_bytes": 578
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/csv-parse/dist/umd/index.js",
+        "size_bytes": 271628
+    },
+    {
+        "file_name": "sync.js",
+        "relative_path": "node_modules/csv-parse/dist/umd/sync.js",
+        "size_bytes": 144377
+    },
+    {
+        "file_name": "sync.js",
+        "relative_path": "node_modules/csv-parse/dist/iife/sync.js",
+        "size_bytes": 144096
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/csv-parse/dist/iife/index.js",
+        "size_bytes": 271347
+    },
+    {
+        "file_name": "index.cjs",
+        "relative_path": "node_modules/csv-parse/dist/cjs/index.cjs",
+        "size_bytes": 56333
+    },
+    {
+        "file_name": "sync.cjs",
+        "relative_path": "node_modules/csv-parse/dist/cjs/sync.cjs",
+        "size_bytes": 53714
+    },
+    {
+        "file_name": "index.d.cts",
+        "relative_path": "node_modules/csv-parse/dist/cjs/index.d.cts",
+        "size_bytes": 10150
+    },
+    {
+        "file_name": "sync.d.cts",
+        "relative_path": "node_modules/csv-parse/dist/cjs/sync.d.cts",
+        "size_bytes": 298
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/csv-parse/dist/esm/index.js",
+        "size_bytes": 201795
+    },
+    {
+        "file_name": "sync.d.ts",
+        "relative_path": "node_modules/csv-parse/dist/esm/sync.d.ts",
+        "size_bytes": 296
+    },
+    {
+        "file_name": "sync.js",
+        "relative_path": "node_modules/csv-parse/dist/esm/sync.js",
+        "size_bytes": 107820
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/csv-parse/dist/esm/index.d.ts",
+        "size_bytes": 10150
+    },
+    {
+        "file_name": "zipEntry.js",
+        "relative_path": "node_modules/adm-zip/zipEntry.js",
+        "size_bytes": 12902
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/adm-zip/package.json",
+        "size_bytes": 1260
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/adm-zip/README.md",
+        "size_bytes": 2205
+    },
+    {
+        "file_name": "zipFile.js",
+        "relative_path": "node_modules/adm-zip/zipFile.js",
+        "size_bytes": 13512
+    },
+    {
+        "file_name": "adm-zip.js",
+        "relative_path": "node_modules/adm-zip/adm-zip.js",
+        "size_bytes": 31371
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/adm-zip/LICENSE",
+        "size_bytes": 1106
+    },
+    {
+        "file_name": "deflater.js",
+        "relative_path": "node_modules/adm-zip/methods/deflater.js",
+        "size_bytes": 1021
+    },
+    {
+        "file_name": "inflater.js",
+        "relative_path": "node_modules/adm-zip/methods/inflater.js",
+        "size_bytes": 1162
+    },
+    {
+        "file_name": "zipcrypto.js",
+        "relative_path": "node_modules/adm-zip/methods/zipcrypto.js",
+        "size_bytes": 5766
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/adm-zip/methods/index.js",
+        "size_bytes": 128
+    },
+    {
+        "file_name": "constants.js",
+        "relative_path": "node_modules/adm-zip/util/constants.js",
+        "size_bytes": 6374
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/adm-zip/util/index.js",
+        "size_bytes": 179
+    },
+    {
+        "file_name": "errors.js",
+        "relative_path": "node_modules/adm-zip/util/errors.js",
+        "size_bytes": 1951
+    },
+    {
+        "file_name": "fileSystem.js",
+        "relative_path": "node_modules/adm-zip/util/fileSystem.js",
+        "size_bytes": 353
+    },
+    {
+        "file_name": "utils.js",
+        "relative_path": "node_modules/adm-zip/util/utils.js",
+        "size_bytes": 7764
+    },
+    {
+        "file_name": "fattr.js",
+        "relative_path": "node_modules/adm-zip/util/fattr.js",
+        "size_bytes": 1963
+    },
+    {
+        "file_name": "entryHeader.js",
+        "relative_path": "node_modules/adm-zip/headers/entryHeader.js",
+        "size_bytes": 11449
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/adm-zip/headers/index.js",
+        "size_bytes": 94
+    },
+    {
+        "file_name": "mainHeader.js",
+        "relative_path": "node_modules/adm-zip/headers/mainHeader.js",
+        "size_bytes": 4454
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/path-is-absolute/package.json",
+        "size_bytes": 733
+    },
+    {
+        "file_name": "license",
+        "relative_path": "node_modules/path-is-absolute/license",
+        "size_bytes": 1119
+    },
+    {
+        "file_name": "readme.md",
+        "relative_path": "node_modules/path-is-absolute/readme.md",
+        "size_bytes": 1153
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/path-is-absolute/index.js",
+        "size_bytes": 611
+    },
+    {
+        "file_name": "legacy-streams.js",
+        "relative_path": "node_modules/graceful-fs/legacy-streams.js",
+        "size_bytes": 2655
+    },
+    {
+        "file_name": "clone.js",
+        "relative_path": "node_modules/graceful-fs/clone.js",
+        "size_bytes": 496
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/graceful-fs/README.md",
+        "size_bytes": 4741
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/graceful-fs/package.json",
+        "size_bytes": 1031
+    },
+    {
+        "file_name": "graceful-fs.js",
+        "relative_path": "node_modules/graceful-fs/graceful-fs.js",
+        "size_bytes": 12680
+    },
+    {
+        "file_name": "polyfills.js",
+        "relative_path": "node_modules/graceful-fs/polyfills.js",
+        "size_bytes": 10141
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/graceful-fs/LICENSE",
+        "size_bytes": 791
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/universalify/LICENSE",
+        "size_bytes": 1100
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/universalify/package.json",
+        "size_bytes": 857
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/universalify/index.js",
+        "size_bytes": 706
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/universalify/README.md",
+        "size_bytes": 2012
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/@types/cacheable-request/index.d.ts",
+        "size_bytes": 6139
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/@types/cacheable-request/README.md",
+        "size_bytes": 857
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/@types/cacheable-request/package.json",
+        "size_bytes": 1144
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/@types/cacheable-request/LICENSE",
+        "size_bytes": 1141
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/@types/responselike/index.d.ts",
+        "size_bytes": 1207
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/@types/responselike/README.md",
+        "size_bytes": 528
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/@types/responselike/LICENSE",
+        "size_bytes": 1183
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/@types/responselike/package.json",
+        "size_bytes": 700
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/@types/minimatch/package.json",
+        "size_bytes": 1103
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/@types/minimatch/README.md",
+        "size_bytes": 595
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/@types/minimatch/LICENSE",
+        "size_bytes": 1141
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/@types/minimatch/index.d.ts",
+        "size_bytes": 9683
+    },
+    {
+        "file_name": "fs.d.ts",
+        "relative_path": "node_modules/@types/node/fs.d.ts",
+        "size_bytes": 180118
+    },
+    {
+        "file_name": "wasi.d.ts",
+        "relative_path": "node_modules/@types/node/wasi.d.ts",
+        "size_bytes": 7051
+    },
+    {
+        "file_name": "trace_events.d.ts",
+        "relative_path": "node_modules/@types/node/trace_events.d.ts",
+        "size_bytes": 7158
+    },
+    {
+        "file_name": "inspector.d.ts",
+        "relative_path": "node_modules/@types/node/inspector.d.ts",
+        "size_bytes": 125271
+    },
+    {
+        "file_name": "diagnostics_channel.d.ts",
+        "relative_path": "node_modules/@types/node/diagnostics_channel.d.ts",
+        "size_bytes": 7500
+    },
+    {
+        "file_name": "readline.d.ts",
+        "relative_path": "node_modules/@types/node/readline.d.ts",
+        "size_bytes": 26687
+    },
+    {
+        "file_name": "assert.d.ts",
+        "relative_path": "node_modules/@types/node/assert.d.ts",
+        "size_bytes": 40397
+    },
+    {
+        "file_name": "buffer.d.ts",
+        "relative_path": "node_modules/@types/node/buffer.d.ts",
+        "size_bytes": 105200
+    },
+    {
+        "file_name": "child_process.d.ts",
+        "relative_path": "node_modules/@types/node/child_process.d.ts",
+        "size_bytes": 66379
+    },
+    {
+        "file_name": "domain.d.ts",
+        "relative_path": "node_modules/@types/node/domain.d.ts",
+        "size_bytes": 7809
+    },
+    {
+        "file_name": "console.d.ts",
+        "relative_path": "node_modules/@types/node/console.d.ts",
+        "size_bytes": 18331
+    },
+    {
+        "file_name": "perf_hooks.d.ts",
+        "relative_path": "node_modules/@types/node/perf_hooks.d.ts",
+        "size_bytes": 23845
+    },
+    {
+        "file_name": "https.d.ts",
+        "relative_path": "node_modules/@types/node/https.d.ts",
+        "size_bytes": 24735
+    },
+    {
+        "file_name": "repl.d.ts",
+        "relative_path": "node_modules/@types/node/repl.d.ts",
+        "size_bytes": 19463
+    },
+    {
+        "file_name": "punycode.d.ts",
+        "relative_path": "node_modules/@types/node/punycode.d.ts",
+        "size_bytes": 5482
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/@types/node/README.md",
+        "size_bytes": 2553
+    },
+    {
+        "file_name": "tls.d.ts",
+        "relative_path": "node_modules/@types/node/tls.d.ts",
+        "size_bytes": 53857
+    },
+    {
+        "file_name": "os.d.ts",
+        "relative_path": "node_modules/@types/node/os.d.ts",
+        "size_bytes": 17669
+    },
+    {
+        "file_name": "module.d.ts",
+        "relative_path": "node_modules/@types/node/module.d.ts",
+        "size_bytes": 4144
+    },
+    {
+        "file_name": "crypto.d.ts",
+        "relative_path": "node_modules/@types/node/crypto.d.ts",
+        "size_bytes": 183040
+    },
+    {
+        "file_name": "tty.d.ts",
+        "relative_path": "node_modules/@types/node/tty.d.ts",
+        "size_bytes": 9877
+    },
+    {
+        "file_name": "dns.d.ts",
+        "relative_path": "node_modules/@types/node/dns.d.ts",
+        "size_bytes": 29701
+    },
+    {
+        "file_name": "stream.d.ts",
+        "relative_path": "node_modules/@types/node/stream.d.ts",
+        "size_bytes": 73978
+    },
+    {
+        "file_name": "dom-events.d.ts",
+        "relative_path": "node_modules/@types/node/dom-events.d.ts",
+        "size_bytes": 5521
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/@types/node/LICENSE",
+        "size_bytes": 1141
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/@types/node/package.json",
+        "size_bytes": 7065
+    },
+    {
+        "file_name": "globals.global.d.ts",
+        "relative_path": "node_modules/@types/node/globals.global.d.ts",
+        "size_bytes": 39
+    },
+    {
+        "file_name": "test.d.ts",
+        "relative_path": "node_modules/@types/node/test.d.ts",
+        "size_bytes": 30436
+    },
+    {
+        "file_name": "http.d.ts",
+        "relative_path": "node_modules/@types/node/http.d.ts",
+        "size_bytes": 73751
+    },
+    {
+        "file_name": "timers.d.ts",
+        "relative_path": "node_modules/@types/node/timers.d.ts",
+        "size_bytes": 5276
+    },
+    {
+        "file_name": "string_decoder.d.ts",
+        "relative_path": "node_modules/@types/node/string_decoder.d.ts",
+        "size_bytes": 2818
+    },
+    {
+        "file_name": "http2.d.ts",
+        "relative_path": "node_modules/@types/node/http2.d.ts",
+        "size_bytes": 113784
+    },
+    {
+        "file_name": "path.d.ts",
+        "relative_path": "node_modules/@types/node/path.d.ts",
+        "size_bytes": 7741
+    },
+    {
+        "file_name": "process.d.ts",
+        "relative_path": "node_modules/@types/node/process.d.ts",
+        "size_bytes": 73426
+    },
+    {
+        "file_name": "v8.d.ts",
+        "relative_path": "node_modules/@types/node/v8.d.ts",
+        "size_bytes": 17546
+    },
+    {
+        "file_name": "worker_threads.d.ts",
+        "relative_path": "node_modules/@types/node/worker_threads.d.ts",
+        "size_bytes": 33795
+    },
+    {
+        "file_name": "querystring.d.ts",
+        "relative_path": "node_modules/@types/node/querystring.d.ts",
+        "size_bytes": 6535
+    },
+    {
+        "file_name": "constants.d.ts",
+        "relative_path": "node_modules/@types/node/constants.d.ts",
+        "size_bytes": 613
+    },
+    {
+        "file_name": "dgram.d.ts",
+        "relative_path": "node_modules/@types/node/dgram.d.ts",
+        "size_bytes": 26727
+    },
+    {
+        "file_name": "url.d.ts",
+        "relative_path": "node_modules/@types/node/url.d.ts",
+        "size_bytes": 39630
+    },
+    {
+        "file_name": "globals.d.ts",
+        "relative_path": "node_modules/@types/node/globals.d.ts",
+        "size_bytes": 9681
+    },
+    {
+        "file_name": "util.d.ts",
+        "relative_path": "node_modules/@types/node/util.d.ts",
+        "size_bytes": 81044
+    },
+    {
+        "file_name": "zlib.d.ts",
+        "relative_path": "node_modules/@types/node/zlib.d.ts",
+        "size_bytes": 19520
+    },
+    {
+        "file_name": "net.d.ts",
+        "relative_path": "node_modules/@types/node/net.d.ts",
+        "size_bytes": 40438
+    },
+    {
+        "file_name": "events.d.ts",
+        "relative_path": "node_modules/@types/node/events.d.ts",
+        "size_bytes": 31636
+    },
+    {
+        "file_name": "vm.d.ts",
+        "relative_path": "node_modules/@types/node/vm.d.ts",
+        "size_bytes": 27302
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/@types/node/index.d.ts",
+        "size_bytes": 6590
+    },
+    {
+        "file_name": "cluster.d.ts",
+        "relative_path": "node_modules/@types/node/cluster.d.ts",
+        "size_bytes": 20363
+    },
+    {
+        "file_name": "async_hooks.d.ts",
+        "relative_path": "node_modules/@types/node/async_hooks.d.ts",
+        "size_bytes": 21793
+    },
+    {
+        "file_name": "web.d.ts",
+        "relative_path": "node_modules/@types/node/stream/web.d.ts",
+        "size_bytes": 13774
+    },
+    {
+        "file_name": "consumers.d.ts",
+        "relative_path": "node_modules/@types/node/stream/consumers.d.ts",
+        "size_bytes": 727
+    },
+    {
+        "file_name": "promises.d.ts",
+        "relative_path": "node_modules/@types/node/stream/promises.d.ts",
+        "size_bytes": 2374
+    },
+    {
+        "file_name": "promises.d.ts",
+        "relative_path": "node_modules/@types/node/dns/promises.d.ts",
+        "size_bytes": 15665
+    },
+    {
+        "file_name": "strict.d.ts",
+        "relative_path": "node_modules/@types/node/assert/strict.d.ts",
+        "size_bytes": 201
+    },
+    {
+        "file_name": "promises.d.ts",
+        "relative_path": "node_modules/@types/node/fs/promises.d.ts",
+        "size_bytes": 52041
+    },
+    {
+        "file_name": "promises.d.ts",
+        "relative_path": "node_modules/@types/node/readline/promises.d.ts",
+        "size_bytes": 6239
+    },
+    {
+        "file_name": "promises.d.ts",
+        "relative_path": "node_modules/@types/node/timers/promises.d.ts",
+        "size_bytes": 3137
+    },
+    {
+        "file_name": "perf_hooks.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/perf_hooks.d.ts",
+        "size_bytes": 23845
+    },
+    {
+        "file_name": "buffer.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/buffer.d.ts",
+        "size_bytes": 105200
+    },
+    {
+        "file_name": "globals.global.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/globals.global.d.ts",
+        "size_bytes": 39
+    },
+    {
+        "file_name": "http.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/http.d.ts",
+        "size_bytes": 73471
+    },
+    {
+        "file_name": "os.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/os.d.ts",
+        "size_bytes": 17669
+    },
+    {
+        "file_name": "worker_threads.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/worker_threads.d.ts",
+        "size_bytes": 33795
+    },
+    {
+        "file_name": "trace_events.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/trace_events.d.ts",
+        "size_bytes": 7158
+    },
+    {
+        "file_name": "diagnostics_channel.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/diagnostics_channel.d.ts",
+        "size_bytes": 7500
+    },
+    {
+        "file_name": "constants.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/constants.d.ts",
+        "size_bytes": 613
+    },
+    {
+        "file_name": "dgram.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/dgram.d.ts",
+        "size_bytes": 26727
+    },
+    {
+        "file_name": "http2.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/http2.d.ts",
+        "size_bytes": 113784
+    },
+    {
+        "file_name": "stream.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/stream.d.ts",
+        "size_bytes": 73977
+    },
+    {
+        "file_name": "timers.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/timers.d.ts",
+        "size_bytes": 4604
+    },
+    {
+        "file_name": "globals.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/globals.d.ts",
+        "size_bytes": 9570
+    },
+    {
+        "file_name": "repl.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/repl.d.ts",
+        "size_bytes": 19463
+    },
+    {
+        "file_name": "console.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/console.d.ts",
+        "size_bytes": 18331
+    },
+    {
+        "file_name": "util.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/util.d.ts",
+        "size_bytes": 81031
+    },
+    {
+        "file_name": "dns.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/dns.d.ts",
+        "size_bytes": 29701
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/index.d.ts",
+        "size_bytes": 3751
+    },
+    {
+        "file_name": "wasi.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/wasi.d.ts",
+        "size_bytes": 7051
+    },
+    {
+        "file_name": "crypto.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/crypto.d.ts",
+        "size_bytes": 182975
+    },
+    {
+        "file_name": "querystring.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/querystring.d.ts",
+        "size_bytes": 6535
+    },
+    {
+        "file_name": "tty.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/tty.d.ts",
+        "size_bytes": 9877
+    },
+    {
+        "file_name": "events.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/events.d.ts",
+        "size_bytes": 31636
+    },
+    {
+        "file_name": "net.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/net.d.ts",
+        "size_bytes": 40438
+    },
+    {
+        "file_name": "v8.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/v8.d.ts",
+        "size_bytes": 17546
+    },
+    {
+        "file_name": "vm.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/vm.d.ts",
+        "size_bytes": 27302
+    },
+    {
+        "file_name": "module.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/module.d.ts",
+        "size_bytes": 4144
+    },
+    {
+        "file_name": "inspector.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/inspector.d.ts",
+        "size_bytes": 125271
+    },
+    {
+        "file_name": "fs.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/fs.d.ts",
+        "size_bytes": 176250
+    },
+    {
+        "file_name": "domain.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/domain.d.ts",
+        "size_bytes": 7809
+    },
+    {
+        "file_name": "process.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/process.d.ts",
+        "size_bytes": 73426
+    },
+    {
+        "file_name": "assert.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/assert.d.ts",
+        "size_bytes": 40397
+    },
+    {
+        "file_name": "tls.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/tls.d.ts",
+        "size_bytes": 53857
+    },
+    {
+        "file_name": "child_process.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/child_process.d.ts",
+        "size_bytes": 66379
+    },
+    {
+        "file_name": "zlib.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/zlib.d.ts",
+        "size_bytes": 19520
+    },
+    {
+        "file_name": "path.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/path.d.ts",
+        "size_bytes": 7741
+    },
+    {
+        "file_name": "https.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/https.d.ts",
+        "size_bytes": 24735
+    },
+    {
+        "file_name": "string_decoder.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/string_decoder.d.ts",
+        "size_bytes": 2818
+    },
+    {
+        "file_name": "dom-events.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/dom-events.d.ts",
+        "size_bytes": 5521
+    },
+    {
+        "file_name": "async_hooks.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/async_hooks.d.ts",
+        "size_bytes": 21793
+    },
+    {
+        "file_name": "cluster.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/cluster.d.ts",
+        "size_bytes": 20363
+    },
+    {
+        "file_name": "punycode.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/punycode.d.ts",
+        "size_bytes": 5482
+    },
+    {
+        "file_name": "url.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/url.d.ts",
+        "size_bytes": 39630
+    },
+    {
+        "file_name": "test.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/test.d.ts",
+        "size_bytes": 30436
+    },
+    {
+        "file_name": "readline.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/readline.d.ts",
+        "size_bytes": 26687
+    },
+    {
+        "file_name": "promises.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/fs/promises.d.ts",
+        "size_bytes": 51483
+    },
+    {
+        "file_name": "promises.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/timers/promises.d.ts",
+        "size_bytes": 3137
+    },
+    {
+        "file_name": "strict.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/assert/strict.d.ts",
+        "size_bytes": 201
+    },
+    {
+        "file_name": "promises.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/readline/promises.d.ts",
+        "size_bytes": 6239
+    },
+    {
+        "file_name": "web.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/stream/web.d.ts",
+        "size_bytes": 13774
+    },
+    {
+        "file_name": "consumers.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/stream/consumers.d.ts",
+        "size_bytes": 727
+    },
+    {
+        "file_name": "promises.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/stream/promises.d.ts",
+        "size_bytes": 2374
+    },
+    {
+        "file_name": "promises.d.ts",
+        "relative_path": "node_modules/@types/node/ts4.8/dns/promises.d.ts",
+        "size_bytes": 15665
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/@types/glob/index.d.ts",
+        "size_bytes": 3460
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/@types/glob/LICENSE",
+        "size_bytes": 1141
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/@types/glob/README.md",
+        "size_bytes": 728
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/@types/glob/package.json",
+        "size_bytes": 1279
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/@types/keyv/README.md",
+        "size_bytes": 578
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/@types/keyv/index.d.ts",
+        "size_bytes": 3447
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/@types/keyv/package.json",
+        "size_bytes": 957
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/@types/keyv/LICENSE",
+        "size_bytes": 1141
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/@types/yauzl/index.d.ts",
+        "size_bytes": 3775
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/@types/yauzl/package.json",
+        "size_bytes": 815
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/@types/yauzl/README.md",
+        "size_bytes": 537
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/@types/yauzl/LICENSE",
+        "size_bytes": 1141
+    },
+    {
+        "file_name": "index.d.ts",
+        "relative_path": "node_modules/@types/http-cache-semantics/index.d.ts",
+        "size_bytes": 7009
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/@types/http-cache-semantics/package.json",
+        "size_bytes": 849
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/@types/http-cache-semantics/README.md",
+        "size_bytes": 556
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/@types/http-cache-semantics/LICENSE",
+        "size_bytes": 1141
+    },
+    {
+        "file_name": "minimatch.js",
+        "relative_path": "node_modules/minimatch/minimatch.js",
+        "size_bytes": 26266
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/minimatch/package.json",
+        "size_bytes": 700
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/minimatch/LICENSE",
+        "size_bytes": 765
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/minimatch/README.md",
+        "size_bytes": 7171
+    },
+    {
+        "file_name": "glob.js",
+        "relative_path": "node_modules/glob/glob.js",
+        "size_bytes": 19445
+    },
+    {
+        "file_name": "common.js",
+        "relative_path": "node_modules/glob/common.js",
+        "size_bytes": 6149
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/glob/README.md",
+        "size_bytes": 15237
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/glob/LICENSE",
+        "size_bytes": 976
+    },
+    {
+        "file_name": "sync.js",
+        "relative_path": "node_modules/glob/sync.js",
+        "size_bytes": 12020
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/glob/package.json",
+        "size_bytes": 1237
+    },
+    {
+        "file_name": "package.json",
+        "relative_path": "node_modules/brace-expansion/package.json",
+        "size_bytes": 1113
+    },
+    {
+        "file_name": "LICENSE",
+        "relative_path": "node_modules/brace-expansion/LICENSE",
+        "size_bytes": 1096
+    },
+    {
+        "file_name": "index.js",
+        "relative_path": "node_modules/brace-expansion/index.js",
+        "size_bytes": 4792
+    },
+    {
+        "file_name": "README.md",
+        "relative_path": "node_modules/brace-expansion/README.md",
+        "size_bytes": 4058
+    },
+    {
+        "file_name": "odayaka.mp3",
+        "relative_path": "data/bgm/odayaka.mp3",
+        "size_bytes": 2011466
+    },
+    {
+        "file_name": "music.m4a",
+        "relative_path": "data/bgm/music.m4a",
+        "size_bytes": 3843583
+    },
+    {
+        "file_name": "okiniiri.mp3",
+        "relative_path": "data/bgm/okiniiri.mp3",
+        "size_bytes": 2404776
+    },
+    {
+        "file_name": "music.ogg",
+        "relative_path": "data/bgm/music.ogg",
+        "size_bytes": 1596672
+    },
+    {
+        "file_name": "btn_A.jpg",
+        "relative_path": "data/image/btn_A.jpg",
+        "size_bytes": 1072466
+    },
+    {
+        "file_name": "a_pic_s.jpg",
+        "relative_path": "data/image/a_pic_s.jpg",
+        "size_bytes": 234388
+    },
+    {
+        "file_name": "msg_w.png",
+        "relative_path": "data/image/msg_w.png",
+        "size_bytes": 34776
+    },
+    {
+        "file_name": "milk_bin_color_2.png",
+        "relative_path": "data/image/milk_bin_color_2.png",
+        "size_bytes": 122340
+    },
+    {
+        "file_name": "btn_B.jpg",
+        "relative_path": "data/image/btn_B.jpg",
+        "size_bytes": 901165
+    },
+    {
+        "file_name": "background.jpg",
+        "relative_path": "data/image/background.jpg",
+        "size_bytes": 1015988
+    },
+    {
+        "file_name": "noimage.png",
+        "relative_path": "data/image/noimage.png",
+        "size_bytes": 2798
+    },
+    {
+        "file_name": "b_pic_s.jpg",
+        "relative_path": "data/image/b_pic_s.jpg",
+        "size_bytes": 226636
+    },
+    {
+        "file_name": "frame.png",
+        "relative_path": "data/image/frame.png",
+        "size_bytes": 1701
+    },
+    {
+        "file_name": "ExQuestion.png",
+        "relative_path": "data/image/ExQuestion.png",
+        "size_bytes": 524
+    },
+    {
+        "file_name": "c_pic_s.jpg",
+        "relative_path": "data/image/c_pic_s.jpg",
+        "size_bytes": 231591
+    },
+    {
+        "file_name": "21470.png",
+        "relative_path": "data/image/21470.png",
+        "size_bytes": 1560
+    },
+    {
+        "file_name": "title_a.jpg",
+        "relative_path": "data/image/title_a.jpg",
+        "size_bytes": 496888
+    },
+    {
+        "file_name": "fullscreen.png",
+        "relative_path": "data/image/button/fullscreen.png",
+        "size_bytes": 1550
+    },
+    {
+        "file_name": "quicksave.png",
+        "relative_path": "data/image/button/quicksave.png",
+        "size_bytes": 1638
+    },
+    {
+        "file_name": "menu2.png",
+        "relative_path": "data/image/button/menu2.png",
+        "size_bytes": 1162
+    },
+    {
+        "file_name": "quickload.png",
+        "relative_path": "data/image/button/quickload.png",
+        "size_bytes": 1664
+    },
+    {
+        "file_name": "backlog.png",
+        "relative_path": "data/image/button/backlog.png",
+        "size_bytes": 1192
+    },
+    {
+        "file_name": "config2.png",
+        "relative_path": "data/image/button/config2.png",
+        "size_bytes": 1531
+    },
+    {
+        "file_name": "title2.png",
+        "relative_path": "data/image/button/title2.png",
+        "size_bytes": 826
+    },
+    {
+        "file_name": "quicksave2.png",
+        "relative_path": "data/image/button/quicksave2.png",
+        "size_bytes": 1581
+    },
+    {
+        "file_name": "save2.png",
+        "relative_path": "data/image/button/save2.png",
+        "size_bytes": 1249
+    },
+    {
+        "file_name": "backlog2.png",
+        "relative_path": "data/image/button/backlog2.png",
+        "size_bytes": 1145
+    },
+    {
+        "file_name": "save.png",
+        "relative_path": "data/image/button/save.png",
+        "size_bytes": 1328
+    },
+    {
+        "file_name": "title.png",
+        "relative_path": "data/image/button/title.png",
+        "size_bytes": 810
+    },
+    {
+        "file_name": "fullscreen2.png",
+        "relative_path": "data/image/button/fullscreen2.png",
+        "size_bytes": 1458
+    },
+    {
+        "file_name": "skip2.png",
+        "relative_path": "data/image/button/skip2.png",
+        "size_bytes": 1064
+    },
+    {
+        "file_name": "menu.png",
+        "relative_path": "data/image/button/menu.png",
+        "size_bytes": 1218
+    },
+    {
+        "file_name": "load.png",
+        "relative_path": "data/image/button/load.png",
+        "size_bytes": 1349
+    },
+    {
+        "file_name": "config.png",
+        "relative_path": "data/image/button/config.png",
+        "size_bytes": 1632
+    },
+    {
+        "file_name": "quickload2.png",
+        "relative_path": "data/image/button/quickload2.png",
+        "size_bytes": 1536
+    },
+    {
+        "file_name": "window2.png",
+        "relative_path": "data/image/button/window2.png",
+        "size_bytes": 1375
+    },
+    {
+        "file_name": "window.png",
+        "relative_path": "data/image/button/window.png",
+        "size_bytes": 1416
+    },
+    {
+        "file_name": "auto.png",
+        "relative_path": "data/image/button/auto.png",
+        "size_bytes": 1283
+    },
+    {
+        "file_name": "skip.png",
+        "relative_path": "data/image/button/skip.png",
+        "size_bytes": 1089
+    },
+    {
+        "file_name": "load2.png",
+        "relative_path": "data/image/button/load2.png",
+        "size_bytes": 1255
+    },
+    {
+        "file_name": "auto2.png",
+        "relative_path": "data/image/button/auto2.png",
+        "size_bytes": 1185
+    },
+    {
+        "file_name": "button_load.gif",
+        "relative_path": "data/image/title/button_load.gif",
+        "size_bytes": 4620
+    },
+    {
+        "file_name": "button_start.gif",
+        "relative_path": "data/image/title/button_start.gif",
+        "size_bytes": 4656
+    },
+    {
+        "file_name": "button_config.gif",
+        "relative_path": "data/image/title/button_config.gif",
+        "size_bytes": 4415
+    },
+    {
+        "file_name": "button_replay.gif",
+        "relative_path": "data/image/title/button_replay.gif",
+        "size_bytes": 4464
+    },
+    {
+        "file_name": "button_cg.gif",
+        "relative_path": "data/image/title/button_cg.gif",
+        "size_bytes": 3774
+    },
+    {
+        "file_name": "label_cg.png",
+        "relative_path": "data/image/config/label_cg.png",
+        "size_bytes": 51052
+    },
+    {
+        "file_name": "message_box.png",
+        "relative_path": "data/image/config/message_box.png",
+        "size_bytes": 2347
+    },
+    {
+        "file_name": "c_btn.png",
+        "relative_path": "data/image/config/c_btn.png",
+        "size_bytes": 133
+    },
+    {
+        "file_name": "c_uts_on.png",
+        "relative_path": "data/image/config/c_uts_on.png",
+        "size_bytes": 2579
+    },
+    {
+        "file_name": "c_btn_back.png",
+        "relative_path": "data/image/config/c_btn_back.png",
+        "size_bytes": 7339
+    },
+    {
+        "file_name": "label_config.png",
+        "relative_path": "data/image/config/label_config.png",
+        "size_bytes": 43403
+    },
+    {
+        "file_name": "label_recollection.png",
+        "relative_path": "data/image/config/label_recollection.png",
+        "size_bytes": 56912
+    },
+    {
+        "file_name": "menu_button_close2.png",
+        "relative_path": "data/image/config/menu_button_close2.png",
+        "size_bytes": 6676
+    },
+    {
+        "file_name": "c_uts_off.png",
+        "relative_path": "data/image/config/c_uts_off.png",
+        "size_bytes": 2594
+    },
+    {
+        "file_name": "bg_config.jpg",
+        "relative_path": "data/image/config/bg_config.jpg",
+        "size_bytes": 497690
+    },
+    {
+        "file_name": "button_unread_off.png",
+        "relative_path": "data/image/config/button_unread_off.png",
+        "size_bytes": 3366
+    },
+    {
+        "file_name": "arrow_prev.png",
+        "relative_path": "data/image/config/arrow_prev.png",
+        "size_bytes": 3471
+    },
+    {
+        "file_name": "c_btn_back2.png",
+        "relative_path": "data/image/config/c_btn_back2.png",
+        "size_bytes": 6676
+    },
+    {
+        "file_name": "button_unread_on.png",
+        "relative_path": "data/image/config/button_unread_on.png",
+        "size_bytes": 3369
+    },
+    {
+        "file_name": "arrow_next.png",
+        "relative_path": "data/image/config/arrow_next.png",
+        "size_bytes": 3400
+    },
+    {
+        "file_name": "menu_button_close.png",
+        "relative_path": "data/image/config/menu_button_close.png",
+        "size_bytes": 7339
+    },
+    {
+        "file_name": "c_set.png",
+        "relative_path": "data/image/config/c_set.png",
+        "size_bytes": 1687
+    },
+    {
+        "file_name": "MochiyPopOne-Regular.ttf",
+        "relative_path": "data/others/MochiyPopOne-Regular.ttf",
+        "size_bytes": 4840984
+    },
+    {
+        "file_name": "en.json",
+        "relative_path": "data/others/plugin/tb_auto_save_load/en.json",
+        "size_bytes": 729
+    },
+    {
+        "file_name": "init.ks",
+        "relative_path": "data/others/plugin/tb_auto_save_load/init.ks",
+        "size_bytes": 127
+    },
+    {
+        "file_name": "tb_auto_save_load.builder.js",
+        "relative_path": "data/others/plugin/tb_auto_save_load/tb_auto_save_load.builder.js",
+        "size_bytes": 3817
+    },
+    {
+        "file_name": "message_edge.builder.js",
+        "relative_path": "data/others/plugin/message_edge/message_edge.builder.js",
+        "size_bytes": 9383
+    },
+    {
+        "file_name": "edge.js",
+        "relative_path": "data/others/plugin/message_edge/edge.js",
+        "size_bytes": 2957
+    },
+    {
+        "file_name": "init.ks",
+        "relative_path": "data/others/plugin/message_edge/init.ks",
+        "size_bytes": 145
+    },
+    {
+        "file_name": "en.json",
+        "relative_path": "data/others/lang/en.json",
+        "size_bytes": 4662
+    },
+    {
+        "file_name": "a_1.mp4",
+        "relative_path": "data/video/a_1.mp4",
+        "size_bytes": 10966938
+    },
+    {
+        "file_name": "a_2_l.mp4",
+        "relative_path": "data/video/a_2_l.mp4",
+        "size_bytes": 48152600
+    },
+    {
+        "file_name": "a_3.mp4",
+        "relative_path": "data/video/a_3.mp4",
+        "size_bytes": 29447574
+    },
+    {
+        "file_name": "Config.tjs",
+        "relative_path": "data/system/Config.tjs",
+        "size_bytes": 2282
+    },
+    {
+        "file_name": "KeyConfig.js",
+        "relative_path": "data/system/KeyConfig.js",
+        "size_bytes": 1601
+    },
+    {
+        "file_name": "bg_base.png",
+        "relative_path": "data/bgimage/bg_base.png",
+        "size_bytes": 16993
+    },
+    {
+        "file_name": "title.jpg",
+        "relative_path": "data/bgimage/title.jpg",
+        "size_bytes": 496888
+    },
+    {
+        "file_name": "a_pic_s.jpg",
+        "relative_path": "data/bgimage/a_pic_s.jpg",
+        "size_bytes": 234388
+    },
+    {
+        "file_name": "bg_config.jpg",
+        "relative_path": "data/bgimage/bg_config.jpg",
+        "size_bytes": 497690
+    },
+    {
+        "file_name": "background.jpg",
+        "relative_path": "data/bgimage/background.jpg",
+        "size_bytes": 1015988
+    },
+    {
+        "file_name": "background_select.jpg",
+        "relative_path": "data/bgimage/background_select.jpg",
+        "size_bytes": 2536037
+    },
+    {
+        "file_name": "title_a.jpg",
+        "relative_path": "data/bgimage/title_a.jpg",
+        "size_bytes": 496888
+    },
+    {
+        "file_name": "0-7.mp3",
+        "relative_path": "data/sound/aina/0-7.mp3",
+        "size_bytes": 68180
+    },
+    {
+        "file_name": "1-3.mp3",
+        "relative_path": "data/sound/aina/1-3.mp3",
+        "size_bytes": 88128
+    },
+    {
+        "file_name": "1-6.mp3",
+        "relative_path": "data/sound/aina/1-6.mp3",
+        "size_bytes": 86204
+    },
+    {
+        "file_name": "1-4.mp3",
+        "relative_path": "data/sound/aina/1-4.mp3",
+        "size_bytes": 135332
+    },
+    {
+        "file_name": "0-6.mp3",
+        "relative_path": "data/sound/aina/0-6.mp3",
+        "size_bytes": 78932
+    },
+    {
+        "file_name": "0-2.mp3",
+        "relative_path": "data/sound/aina/0-2.mp3",
+        "size_bytes": 164612
+    },
+    {
+        "file_name": "0-3.mp3",
+        "relative_path": "data/sound/aina/0-3.mp3",
+        "size_bytes": 87140
+    },
+    {
+        "file_name": "1-1.mp3",
+        "relative_path": "data/sound/aina/1-1.mp3",
+        "size_bytes": 30476
+    },
+    {
+        "file_name": "0-1.mp3",
+        "relative_path": "data/sound/aina/0-1.mp3",
+        "size_bytes": 134252
+    },
+    {
+        "file_name": "0-5.mp3",
+        "relative_path": "data/sound/aina/0-5.mp3",
+        "size_bytes": 91676
+    },
+    {
+        "file_name": "1-5.mp3",
+        "relative_path": "data/sound/aina/1-5.mp3",
+        "size_bytes": 115100
+    },
+    {
+        "file_name": "1-2.mp3",
+        "relative_path": "data/sound/aina/1-2.mp3",
+        "size_bytes": 153236
+    },
+    {
+        "file_name": "0-4.mp3",
+        "relative_path": "data/sound/aina/0-4.mp3",
+        "size_bytes": 157604
+    },
+    {
+        "file_name": "1_1.png",
+        "relative_path": "data/fgimage/chara/1_1.png",
+        "size_bytes": 937502
+    },
+    {
+        "file_name": "4-2.png",
+        "relative_path": "data/fgimage/chara/1/4-2.png",
+        "size_bytes": 970070
+    },
+    {
+        "file_name": "1-4.png",
+        "relative_path": "data/fgimage/chara/1/1-4.png",
+        "size_bytes": 937034
+    },
+    {
+        "file_name": "2-2.png",
+        "relative_path": "data/fgimage/chara/1/2-2.png",
+        "size_bytes": 959490
+    },
+    {
+        "file_name": "1-3.png",
+        "relative_path": "data/fgimage/chara/1/1-3.png",
+        "size_bytes": 935069
+    },
+    {
+        "file_name": "3-2.png",
+        "relative_path": "data/fgimage/chara/1/3-2.png",
+        "size_bytes": 961746
+    },
+    {
+        "file_name": "4-1.png",
+        "relative_path": "data/fgimage/chara/1/4-1.png",
+        "size_bytes": 971961
+    },
+    {
+        "file_name": "4-3.png",
+        "relative_path": "data/fgimage/chara/1/4-3.png",
+        "size_bytes": 971696
+    },
+    {
+        "file_name": "2-1.png",
+        "relative_path": "data/fgimage/chara/1/2-1.png",
+        "size_bytes": 960477
+    },
+    {
+        "file_name": "1-1.png",
+        "relative_path": "data/fgimage/chara/1/1-1.png",
+        "size_bytes": 937502
+    },
+    {
+        "file_name": "3-1.png",
+        "relative_path": "data/fgimage/chara/1/3-1.png",
+        "size_bytes": 963934
+    },
+    {
+        "file_name": "1-2.png",
+        "relative_path": "data/fgimage/chara/1/1-2.png",
+        "size_bytes": 936426
+    },
+    {
+        "file_name": "1-5.png",
+        "relative_path": "data/fgimage/chara/1/1-5.png",
+        "size_bytes": 935359
+    },
+    {
+        "file_name": "1_Self-Milking.png",
+        "relative_path": "data/fgimage/default/1_Self-Milking.png",
+        "size_bytes": 42843
+    },
+    {
+        "file_name": "sbtit_1.png",
+        "relative_path": "data/fgimage/default/sbtit_1.png",
+        "size_bytes": 42322
+    },
+    {
+        "file_name": "title.jpg",
+        "relative_path": "data/fgimage/default/title.jpg",
+        "size_bytes": 496888
+    },
+    {
+        "file_name": "b_pic_s_g.jpg",
+        "relative_path": "data/fgimage/default/b_pic_s_g.jpg",
+        "size_bytes": 194088
+    },
+    {
+        "file_name": "a_pic_s_g.jpg",
+        "relative_path": "data/fgimage/default/a_pic_s_g.jpg",
+        "size_bytes": 192170
+    },
+    {
+        "file_name": "d_pic_s_g.jpg",
+        "relative_path": "data/fgimage/default/d_pic_s_g.jpg",
+        "size_bytes": 193629
+    },
+    {
+        "file_name": "c_pic_s_g.jpg",
+        "relative_path": "data/fgimage/default/c_pic_s_g.jpg",
+        "size_bytes": 197886
+    },
+    {
+        "file_name": "a_anime.ks",
+        "relative_path": "data/scenario/a_anime.ks",
+        "size_bytes": 3727
+    },
+    {
+        "file_name": "title_screen.ks",
+        "relative_path": "data/scenario/title_screen.ks",
+        "size_bytes": 1233
+    },
+    {
+        "file_name": "make.ks",
+        "relative_path": "data/scenario/make.ks",
+        "size_bytes": 299
+    },
+    {
+        "file_name": "b_anime.ks",
+        "relative_path": "data/scenario/b_anime.ks",
+        "size_bytes": 393
+    },
+    {
+        "file_name": "a_anime_only.ks",
+        "relative_path": "data/scenario/a_anime_only.ks",
+        "size_bytes": 550
+    },
+    {
+        "file_name": "clear_autosave.ks",
+        "relative_path": "data/scenario/clear_autosave.ks",
+        "size_bytes": 1479
+    },
+    {
+        "file_name": "_preview.ks",
+        "relative_path": "data/scenario/_preview.ks",
+        "size_bytes": 3046
+    },
+    {
+        "file_name": "select_anime_only.ks",
+        "relative_path": "data/scenario/select_anime_only.ks",
+        "size_bytes": 2378
+    },
+    {
+        "file_name": "select.ks",
+        "relative_path": "data/scenario/select.ks",
+        "size_bytes": 3010
+    },
+    {
+        "file_name": "intro.ks",
+        "relative_path": "data/scenario/intro.ks",
+        "size_bytes": 4783
+    },
+    {
+        "file_name": "config.ks",
+        "relative_path": "data/scenario/config.ks",
+        "size_bytes": 14418
+    },
+    {
+        "file_name": "scene1.ks",
+        "relative_path": "data/scenario/scene1.ks",
+        "size_bytes": 311
+    },
+    {
+        "file_name": "c_anime.ks",
+        "relative_path": "data/scenario/c_anime.ks",
+        "size_bytes": 117
+    },
+    {
+        "file_name": "first.ks",
+        "relative_path": "data/scenario/first.ks",
+        "size_bytes": 640
+    },
+    {
+        "file_name": "d_anime.ks",
+        "relative_path": "data/scenario/d_anime.ks",
+        "size_bytes": 117
+    },
+    {
+        "file_name": "title.ks",
+        "relative_path": "data/scenario/title.ks",
+        "size_bytes": 619
+    },
+    {
+        "file_name": "live2d_define.ks",
+        "relative_path": "data/scenario/system/live2d_define.ks",
+        "size_bytes": 60
+    },
+    {
+        "file_name": "message_window.ks",
+        "relative_path": "data/scenario/system/message_window.ks",
+        "size_bytes": 1624
+    },
+    {
+        "file_name": "_title_screen.ks",
+        "relative_path": "data/scenario/system/_title_screen.ks",
+        "size_bytes": 56
+    },
+    {
+        "file_name": "tyrano.ks",
+        "relative_path": "data/scenario/system/tyrano.ks",
+        "size_bytes": 3665
+    },
+    {
+        "file_name": "_select.ks",
+        "relative_path": "data/scenario/system/_select.ks",
+        "size_bytes": 248
+    },
+    {
+        "file_name": "plugin_third.ks",
+        "relative_path": "data/scenario/system/plugin_third.ks",
+        "size_bytes": 65
+    },
+    {
+        "file_name": "_b_anime.ks",
+        "relative_path": "data/scenario/system/_b_anime.ks",
+        "size_bytes": 61
+    },
+    {
+        "file_name": "chara_define.ks",
+        "relative_path": "data/scenario/system/chara_define.ks",
+        "size_bytes": 192
+    },
+    {
+        "file_name": "builder.ks",
+        "relative_path": "data/scenario/system/builder.ks",
+        "size_bytes": 5230
+    },
+    {
+        "file_name": "_scene1.ks",
+        "relative_path": "data/scenario/system/_scene1.ks",
+        "size_bytes": 55
+    },
+    {
+        "file_name": "_select_anime_only.ks",
+        "relative_path": "data/scenario/system/_select_anime_only.ks",
+        "size_bytes": 308
+    },
+    {
+        "file_name": "chara_layer_define.ks",
+        "relative_path": "data/scenario/system/chara_layer_define.ks",
+        "size_bytes": 65
+    },
+    {
+        "file_name": "_d_anime.ks",
+        "relative_path": "data/scenario/system/_d_anime.ks",
+        "size_bytes": 8
+    },
+    {
+        "file_name": "_a_anime_only.ks",
+        "relative_path": "data/scenario/system/_a_anime_only.ks",
+        "size_bytes": 8
+    },
+    {
+        "file_name": "plugin.ks",
+        "relative_path": "data/scenario/system/plugin.ks",
+        "size_bytes": 9
+    },
+    {
+        "file_name": "_c_anime.ks",
+        "relative_path": "data/scenario/system/_c_anime.ks",
+        "size_bytes": 8
+    },
+    {
+        "file_name": "_clear_autosave.ks",
+        "relative_path": "data/scenario/system/_clear_autosave.ks",
+        "size_bytes": 58
+    },
+    {
+        "file_name": "_intro.ks",
+        "relative_path": "data/scenario/system/_intro.ks",
+        "size_bytes": 331
+    },
+    {
+        "file_name": "_a_anime.ks",
+        "relative_path": "data/scenario/system/_a_anime.ks",
+        "size_bytes": 238
+    },
+    {
+        "file_name": "_title.ks",
+        "relative_path": "data/scenario/system/_title.ks",
+        "size_bytes": 56
+    },
+    {
+        "file_name": "_preview.ks",
+        "relative_path": "data/scenario/system/_preview.ks",
+        "size_bytes": 314
+    },
+    {
+        "file_name": "live2d.ks",
+        "relative_path": "data/scenario/system/live2d.ks",
+        "size_bytes": 12798
+    },
+    {
+        "file_name": "libs.js",
+        "relative_path": "tyrano/libs.js",
+        "size_bytes": 94919
+    },
+    {
+        "file_name": "tyrano.base.js",
+        "relative_path": "tyrano/tyrano.base.js",
+        "size_bytes": 11211
+    },
+    {
+        "file_name": "tyrano.js",
+        "relative_path": "tyrano/tyrano.js",
+        "size_bytes": 2646
+    },
+    {
+        "file_name": "tyrano.css",
+        "relative_path": "tyrano/tyrano.css",
+        "size_bytes": 4017
+    },
+    {
+        "file_name": "lang.js",
+        "relative_path": "tyrano/lang.js",
+        "size_bytes": 6596
+    },
+    {
+        "file_name": "load.html",
+        "relative_path": "tyrano/html/load.html",
+        "size_bytes": 2009
+    },
+    {
+        "file_name": "menu.html",
+        "relative_path": "tyrano/html/menu.html",
+        "size_bytes": 1681
+    },
+    {
+        "file_name": "save.html",
+        "relative_path": "tyrano/html/save.html",
+        "size_bytes": 1939
+    },
+    {
+        "file_name": "backlog.html",
+        "relative_path": "tyrano/html/backlog.html",
+        "size_bytes": 1065
+    },
+    {
+        "file_name": "reset.css",
+        "relative_path": "tyrano/css/reset.css",
+        "size_bytes": 583
+    },
+    {
+        "file_name": "glink.css",
+        "relative_path": "tyrano/css/glink.css",
+        "size_bytes": 240892
+    },
+    {
+        "file_name": "font.css",
+        "relative_path": "tyrano/css/font.css",
+        "size_bytes": 459
+    },
+    {
+        "file_name": "animate.css",
+        "relative_path": "tyrano/css/animate.css",
+        "size_bytes": 78836
+    },
+    {
+        "file_name": "jsrender.min.js",
+        "relative_path": "tyrano/libs/jsrender.min.js",
+        "size_bytes": 12917
+    },
+    {
+        "file_name": "html2canvas.js",
+        "relative_path": "tyrano/libs/html2canvas.js",
+        "size_bytes": 200459
+    },
+    {
+        "file_name": "jquery.a3d.js",
+        "relative_path": "tyrano/libs/jquery.a3d.js",
+        "size_bytes": 12343
+    },
+    {
+        "file_name": "anime.min.js",
+        "relative_path": "tyrano/libs/anime.min.js",
+        "size_bytes": 17741
+    },
+    {
+        "file_name": "howler.js",
+        "relative_path": "tyrano/libs/howler.js",
+        "size_bytes": 36137
+    },
+    {
+        "file_name": "jquery-migrate-1.4.1.js",
+        "relative_path": "tyrano/libs/jquery-migrate-1.4.1.js",
+        "size_bytes": 9909
+    },
+    {
+        "file_name": "tyrano-update-v6.js",
+        "relative_path": "tyrano/libs/tyrano-update-v6.js",
+        "size_bytes": 505
+    },
+    {
+        "file_name": "jsQR.js",
+        "relative_path": "tyrano/libs/jsQR.js",
+        "size_bytes": 253653
+    },
+    {
+        "file_name": "jquery-3.6.0.min.js",
+        "relative_path": "tyrano/libs/jquery-3.6.0.min.js",
+        "size_bytes": 89501
+    },
+    {
+        "file_name": "lz-string.min.js",
+        "relative_path": "tyrano/libs/lz-string.min.js",
+        "size_bytes": 4719
+    },
+    {
+        "file_name": "jquery.a3d.min.js",
+        "relative_path": "tyrano/libs/jquery.a3d.min.js",
+        "size_bytes": 4437
+    },
+    {
+        "file_name": "jquery.touchSwipe.min.js",
+        "relative_path": "tyrano/libs/jquery.touchSwipe.min.js",
+        "size_bytes": 20441
+    },
+    {
+        "file_name": "jquery.textillate.js",
+        "relative_path": "tyrano/libs/textillate/jquery.textillate.js",
+        "size_bytes": 7902
+    },
+    {
+        "file_name": "animate.css",
+        "relative_path": "tyrano/libs/textillate/assets/animate.css",
+        "size_bytes": 61429
+    },
+    {
+        "file_name": "style.css",
+        "relative_path": "tyrano/libs/textillate/assets/style.css",
+        "size_bytes": 7271
+    },
+    {
+        "file_name": "jquery.fittext.js",
+        "relative_path": "tyrano/libs/textillate/assets/jquery.fittext.js",
+        "size_bytes": 1068
+    },
+    {
+        "file_name": "jquery.lettering.js",
+        "relative_path": "tyrano/libs/textillate/assets/jquery.lettering.js",
+        "size_bytes": 1715
+    },
+    {
+        "file_name": "remodal.css",
+        "relative_path": "tyrano/libs/remodal/remodal.css",
+        "size_bytes": 1614
+    },
+    {
+        "file_name": "remodal.js",
+        "relative_path": "tyrano/libs/remodal/remodal.js",
+        "size_bytes": 19468
+    },
+    {
+        "file_name": "remodal-default-theme.css",
+        "relative_path": "tyrano/libs/remodal/remodal-default-theme.css",
+        "size_bytes": 5718
+    },
+    {
+        "file_name": "three.js",
+        "relative_path": "tyrano/libs/three/three.js",
+        "size_bytes": 1162990
+    },
+    {
+        "file_name": "DeviceOrientationControls.js",
+        "relative_path": "tyrano/libs/three/controls/DeviceOrientationControls.js",
+        "size_bytes": 3687
+    },
+    {
+        "file_name": "TransformControls.js.bk",
+        "relative_path": "tyrano/libs/three/controls/TransformControls.js.bk",
+        "size_bytes": 44561
+    },
+    {
+        "file_name": "TrackballControls.js",
+        "relative_path": "tyrano/libs/three/controls/TrackballControls.js",
+        "size_bytes": 17792
+    },
+    {
+        "file_name": "TransformControls.js",
+        "relative_path": "tyrano/libs/three/controls/TransformControls.js",
+        "size_bytes": 41722
+    },
+    {
+        "file_name": "OrbitControls.js",
+        "relative_path": "tyrano/libs/three/controls/OrbitControls.js",
+        "size_bytes": 26609
+    },
+    {
+        "file_name": "ThreeModel.js",
+        "relative_path": "tyrano/libs/three/classes/ThreeModel.js",
+        "size_bytes": 6631
+    },
+    {
+        "file_name": "ar.js",
+        "relative_path": "tyrano/libs/three/etc/ar.js",
+        "size_bytes": 1606035
+    },
+    {
+        "file_name": "stats.min.js",
+        "relative_path": "tyrano/libs/three/etc/stats.min.js",
+        "size_bytes": 1966
+    },
+    {
+        "file_name": "CSS3DRenderer.js",
+        "relative_path": "tyrano/libs/three/etc/CSS3DRenderer.js",
+        "size_bytes": 6716
+    },
+    {
+        "file_name": "CopyShader.js",
+        "relative_path": "tyrano/libs/three/shader/CopyShader.js",
+        "size_bytes": 606
+    },
+    {
+        "file_name": "ShaderPass.js",
+        "relative_path": "tyrano/libs/three/postprocessing/ShaderPass.js",
+        "size_bytes": 1416
+    },
+    {
+        "file_name": "EffectComposer.js",
+        "relative_path": "tyrano/libs/three/postprocessing/EffectComposer.js",
+        "size_bytes": 6271
+    },
+    {
+        "file_name": "OutlinePass.js",
+        "relative_path": "tyrano/libs/three/postprocessing/OutlinePass.js",
+        "size_bytes": 20503
+    },
+    {
+        "file_name": "RenderPass.js",
+        "relative_path": "tyrano/libs/three/postprocessing/RenderPass.js",
+        "size_bytes": 1746
+    },
+    {
+        "file_name": "GLTFLoader.js",
+        "relative_path": "tyrano/libs/three/loader/GLTFLoader.js",
+        "size_bytes": 101796
+    },
+    {
+        "file_name": "MMDLoader.js",
+        "relative_path": "tyrano/libs/three/loader/MMDLoader.js",
+        "size_bytes": 51763
+    },
+    {
+        "file_name": "MTLLoader.js",
+        "relative_path": "tyrano/libs/three/loader/MTLLoader.js",
+        "size_bytes": 10576
+    },
+    {
+        "file_name": "OBJLoader.js",
+        "relative_path": "tyrano/libs/three/loader/OBJLoader.js",
+        "size_bytes": 21560
+    },
+    {
+        "file_name": "alertify.min.js",
+        "relative_path": "tyrano/libs/alertify/alertify.min.js",
+        "size_bytes": 8653
+    },
+    {
+        "file_name": "alertify.default.css",
+        "relative_path": "tyrano/libs/alertify/alertify.default.css",
+        "size_bytes": 2552
+    },
+    {
+        "file_name": "alertify.core.css",
+        "relative_path": "tyrano/libs/alertify/alertify.core.css",
+        "size_bytes": 3569
+    },
+    {
+        "file_name": "jquery-ui.css",
+        "relative_path": "tyrano/libs/jquery-ui/jquery-ui.css",
+        "size_bytes": 37326
+    },
+    {
+        "file_name": "jquery-ui.min.js",
+        "relative_path": "tyrano/libs/jquery-ui/jquery-ui.min.js",
+        "size_bytes": 253669
+    },
+    {
+        "file_name": "ui-icons_777777_256x240.png",
+        "relative_path": "tyrano/libs/jquery-ui/images/ui-icons_777777_256x240.png",
+        "size_bytes": 7013
+    },
+    {
+        "file_name": "ui-icons_cc0000_256x240.png",
+        "relative_path": "tyrano/libs/jquery-ui/images/ui-icons_cc0000_256x240.png",
+        "size_bytes": 4632
+    },
+    {
+        "file_name": "ui-icons_444444_256x240.png",
+        "relative_path": "tyrano/libs/jquery-ui/images/ui-icons_444444_256x240.png",
+        "size_bytes": 7006
+    },
+    {
+        "file_name": "ui-icons_ffffff_256x240.png",
+        "relative_path": "tyrano/libs/jquery-ui/images/ui-icons_ffffff_256x240.png",
+        "size_bytes": 6313
+    },
+    {
+        "file_name": "ui-icons_555555_256x240.png",
+        "relative_path": "tyrano/libs/jquery-ui/images/ui-icons_555555_256x240.png",
+        "size_bytes": 7074
+    },
+    {
+        "file_name": "ui-icons_777620_256x240.png",
+        "relative_path": "tyrano/libs/jquery-ui/images/ui-icons_777620_256x240.png",
+        "size_bytes": 4676
+    },
+    {
+        "file_name": "kag.studio_v6.js",
+        "relative_path": "tyrano/plugins/kag/kag.studio_v6.js",
+        "size_bytes": 4233
+    },
+    {
+        "file_name": "kag.tag_three.js",
+        "relative_path": "tyrano/plugins/kag/kag.tag_three.js",
+        "size_bytes": 93270
+    },
+    {
+        "file_name": "kag.menu.js",
+        "relative_path": "tyrano/plugins/kag/kag.menu.js",
+        "size_bytes": 22229
+    },
+    {
+        "file_name": "kag.tag_audio.js",
+        "relative_path": "tyrano/plugins/kag/kag.tag_audio.js",
+        "size_bytes": 24283
+    },
+    {
+        "file_name": "kag.tag_vchat.js",
+        "relative_path": "tyrano/plugins/kag/kag.tag_vchat.js",
+        "size_bytes": 1699
+    },
+    {
+        "file_name": "kag.js",
+        "relative_path": "tyrano/plugins/kag/kag.js",
+        "size_bytes": 57124
+    },
+    {
+        "file_name": "kag.layer.js",
+        "relative_path": "tyrano/plugins/kag/kag.layer.js",
+        "size_bytes": 10324
+    },
+    {
+        "file_name": "kag.parser.js",
+        "relative_path": "tyrano/plugins/kag/kag.parser.js",
+        "size_bytes": 5301
+    },
+    {
+        "file_name": "kag.rider.js",
+        "relative_path": "tyrano/plugins/kag/kag.rider.js",
+        "size_bytes": 2152
+    },
+    {
+        "file_name": "kag.tag.js",
+        "relative_path": "tyrano/plugins/kag/kag.tag.js",
+        "size_bytes": 99532
+    },
+    {
+        "file_name": "kag.tag_ext.js",
+        "relative_path": "tyrano/plugins/kag/kag.tag_ext.js",
+        "size_bytes": 44412
+    },
+    {
+        "file_name": "kag.tag_ar.js",
+        "relative_path": "tyrano/plugins/kag/kag.tag_ar.js",
+        "size_bytes": 4441
+    },
+    {
+        "file_name": "kag.key_mouse.js",
+        "relative_path": "tyrano/plugins/kag/kag.key_mouse.js",
+        "size_bytes": 48063
+    },
+    {
+        "file_name": "kag.event.js",
+        "relative_path": "tyrano/plugins/kag/kag.event.js",
+        "size_bytes": 1157
+    },
+    {
+        "file_name": "kag.tag_system.js",
+        "relative_path": "tyrano/plugins/kag/kag.tag_system.js",
+        "size_bytes": 35496
+    },
+    {
+        "file_name": "kag.tag_camera.js",
+        "relative_path": "tyrano/plugins/kag/kag.tag_camera.js",
+        "size_bytes": 5414
+    },
+    {
+        "file_name": "silent.mp3",
+        "relative_path": "tyrano/audio/silent.mp3",
+        "size_bytes": 75685
+    },
+    {
+        "file_name": "label_backlog.png",
+        "relative_path": "tyrano/images/system/label_backlog.png",
+        "size_bytes": 57203
+    },
+    {
+        "file_name": "saveslot2.png",
+        "relative_path": "tyrano/images/system/saveslot2.png",
+        "size_bytes": 3303
+    },
+    {
+        "file_name": "bg_config.jpg",
+        "relative_path": "tyrano/images/system/bg_config.jpg",
+        "size_bytes": 497690
+    },
+    {
+        "file_name": "menu_message_close2.png",
+        "relative_path": "tyrano/images/system/menu_message_close2.png",
+        "size_bytes": 18937
+    },
+    {
+        "file_name": "label_recollection.png",
+        "relative_path": "tyrano/images/system/label_recollection.png",
+        "size_bytes": 69580
+    },
+    {
+        "file_name": "button_menu.png",
+        "relative_path": "tyrano/images/system/button_menu.png",
+        "size_bytes": 3550
+    },
+    {
+        "file_name": "saveslot.png",
+        "relative_path": "tyrano/images/system/saveslot.png",
+        "size_bytes": 4430
+    },
+    {
+        "file_name": "menu_button_save2.png",
+        "relative_path": "tyrano/images/system/menu_button_save2.png",
+        "size_bytes": 10371
+    },
+    {
+        "file_name": "label_cgmode.png",
+        "relative_path": "tyrano/images/system/label_cgmode.png",
+        "size_bytes": 56639
+    },
+    {
+        "file_name": "menu_button_title2.png",
+        "relative_path": "tyrano/images/system/menu_button_title2.png",
+        "size_bytes": 18010
+    },
+    {
+        "file_name": "arrow_next.png",
+        "relative_path": "tyrano/images/system/arrow_next.png",
+        "size_bytes": 4961
+    },
+    {
+        "file_name": "saveslot1.png",
+        "relative_path": "tyrano/images/system/saveslot1.png",
+        "size_bytes": 3889
+    },
+    {
+        "file_name": "menu_button_save.png",
+        "relative_path": "tyrano/images/system/menu_button_save.png",
+        "size_bytes": 5970
+    },
+    {
+        "file_name": "nextpage.gif",
+        "relative_path": "tyrano/images/system/nextpage.gif",
+        "size_bytes": 529
+    },
+    {
+        "file_name": "menu_button_close.png",
+        "relative_path": "tyrano/images/system/menu_button_close.png",
+        "size_bytes": 10229
+    },
+    {
+        "file_name": "menu_message_close.png",
+        "relative_path": "tyrano/images/system/menu_message_close.png",
+        "size_bytes": 9049
+    },
+    {
+        "file_name": "menu_button_close2.png",
+        "relative_path": "tyrano/images/system/menu_button_close2.png",
+        "size_bytes": 9684
+    },
+    {
+        "file_name": "label_load.png",
+        "relative_path": "tyrano/images/system/label_load.png",
+        "size_bytes": 54182
+    },
+    {
+        "file_name": "label_save.png",
+        "relative_path": "tyrano/images/system/label_save.png",
+        "size_bytes": 53411
+    },
+    {
+        "file_name": "transparent.png",
+        "relative_path": "tyrano/images/system/transparent.png",
+        "size_bytes": 997
+    },
+    {
+        "file_name": "menu_button_title.png",
+        "relative_path": "tyrano/images/system/menu_button_title.png",
+        "size_bytes": 8278
+    },
+    {
+        "file_name": "noimage.png",
+        "relative_path": "tyrano/images/system/noimage.png",
+        "size_bytes": 2798
+    },
+    {
+        "file_name": "arrow_down.png",
+        "relative_path": "tyrano/images/system/arrow_down.png",
+        "size_bytes": 4987
+    },
+    {
+        "file_name": "thumbnail.png",
+        "relative_path": "tyrano/images/system/thumbnail.png",
+        "size_bytes": 2915
+    },
+    {
+        "file_name": "menu_button_load.png",
+        "relative_path": "tyrano/images/system/menu_button_load.png",
+        "size_bytes": 6011
+    },
+    {
+        "file_name": "cursor_pointer.png",
+        "relative_path": "tyrano/images/system/cursor_pointer.png",
+        "size_bytes": 166
+    },
+    {
+        "file_name": "thumbnail_save.png",
+        "relative_path": "tyrano/images/system/thumbnail_save.png",
+        "size_bytes": 2358
+    },
+    {
+        "file_name": "menu_button_skip2.png",
+        "relative_path": "tyrano/images/system/menu_button_skip2.png",
+        "size_bytes": 18964
+    },
+    {
+        "file_name": "label_config.png",
+        "relative_path": "tyrano/images/system/label_config.png",
+        "size_bytes": 43403
+    },
+    {
+        "file_name": "arrow_prev.png",
+        "relative_path": "tyrano/images/system/arrow_prev.png",
+        "size_bytes": 5002
+    },
+    {
+        "file_name": "label_menu.png",
+        "relative_path": "tyrano/images/system/label_menu.png",
+        "size_bytes": 43065
+    },
+    {
+        "file_name": "menu_button_skip.png",
+        "relative_path": "tyrano/images/system/menu_button_skip.png",
+        "size_bytes": 9607
+    },
+    {
+        "file_name": "nextpage2.gif",
+        "relative_path": "tyrano/images/system/nextpage2.gif",
+        "size_bytes": 1466
+    },
+    {
+        "file_name": "cursor_default.png",
+        "relative_path": "tyrano/images/system/cursor_default.png",
+        "size_bytes": 156
+    },
+    {
+        "file_name": "menu_button_load2.png",
+        "relative_path": "tyrano/images/system/menu_button_load2.png",
+        "size_bytes": 10529
+    },
+    {
+        "file_name": "label_cg.png",
+        "relative_path": "tyrano/images/system/label_cg.png",
+        "size_bytes": 51052
+    },
+    {
+        "file_name": "bg_base.png",
+        "relative_path": "tyrano/images/system/bg_base.png",
+        "size_bytes": 22624
+    },
+    {
+        "file_name": "arrow_up.png",
+        "relative_path": "tyrano/images/system/arrow_up.png",
+        "size_bytes": 5025
+    }
+]
